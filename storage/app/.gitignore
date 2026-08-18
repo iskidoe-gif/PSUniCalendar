@@ -1,0 +1,6 @@
+*
+!private/
+!public/
+!.gitignore
+
+/storage/app/google-calendar/service-account.json
